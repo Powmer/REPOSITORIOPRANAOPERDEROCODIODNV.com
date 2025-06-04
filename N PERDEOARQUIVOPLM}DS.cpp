@@ -7,8 +7,6 @@ using namespace std;
 struct agenda {
     bool livre;
     char nome[50];
-    char endereco[50];
-    char tel[10];
 };
 
 int colisoesInsertNewHash = 0;
