@@ -102,7 +102,7 @@ int main() {
 
     char nome[50];
 
-    cout << "Digite nomes ("0" para parar):\n";
+    cout << "Digite nomes (0 para parar):\n";
     while (true) {
         cout << "Nome: ";
         cin.getline(nome, 50);
