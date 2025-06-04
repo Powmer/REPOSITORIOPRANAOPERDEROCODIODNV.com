@@ -32,8 +32,7 @@ void iniciaAgenda(agenda a[]) {
     for (int i = 0; i < TABLESPACE; i++) {
         a[i].livre = true;
         strcpy(a[i].nome, "");
-        strcpy(a[i].endereco, "");
-        strcpy(a[i].tel, "");
+  
     }
 }
 
