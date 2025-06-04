@@ -8,7 +8,7 @@ struct agenda {
     bool livre;
     char nome[50];
 };
-
+//VARIAVEIS DO RELATORIO
 int colisoesInsertNewHash = 0;
 int colisoesInsertOldHash = 0;
 int colisoesSortNew = 0;
