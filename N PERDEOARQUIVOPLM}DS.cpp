@@ -185,3 +185,5 @@ int main() {
 
     return 0;
 }
+
+///Pior cenario(HashVelha) PrimeiraLetra Ser a mesma 
